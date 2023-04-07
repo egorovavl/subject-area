@@ -160,7 +160,7 @@ int main() {
     Waiter waiter("Peter", "Parker", 25, 500.0);
     waiter.display();
     cout << "=================" << endl;
-    Client client("Andrey", "Knyazhev", 30, "555-1234");
+    Client client("Valeriya", "Egorova", 30, "555-1234");
     client.display();
 
     makeOrder(restaurant, client);
